@@ -1,0 +1,1 @@
+./configure --prefix=/Users/dasha/Documents/school21/github/webserver/cgi-bin/php-7.4.21 --without-iconv --disable-cli --enable-cgi --enable-trans-sid --with-xml --enable-exif --enable-mbregex --enable-dbx --enable-sockets --with-curl=/usr --with-config-file-path=/etc --sysconfdir=/private/etc --without-pear
